@@ -37,7 +37,7 @@ The required user account `JUSTIN_PLSQLAUCA_29403` was also created inside the P
 
 The screenshots for PDB creation and verification are available in:
 
-`screenshots/pdb_creation/`
+`![Create PDB](create pdb.png)`
 
 ## 4. Task 2 — Create and Delete a PDB
 
@@ -55,7 +55,7 @@ The PDB was then checked again to confirm that it no longer existed.
 
 The screenshots for temporary PDB creation and deletion are available in:
 
-`screenshots/pdb_deletion/`
+`![PDB to Delete](pdb to delete.png)`
 
 ## 5. Task 3 — Oracle Enterprise Manager
 
@@ -67,7 +67,7 @@ The Oracle environment was displayed through the Enterprise Manager dashboard.
 
 The OEM dashboard screenshot is available in:
 
-`screenshots/oem_dashboard/`
+`![OEM](oem.png)`
 
 ## 6. Challenges Faced and Solutions
 
