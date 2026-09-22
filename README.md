@@ -96,7 +96,7 @@ I confirm that the work presented in this repository represents my work complete
 ## 8. Submission Details
 
 **Repository Link:**
-https://github.com/justinmicomyiza6-cmyk/oracle_pdb_ass_II_202455_justin
+https://github.com/justinmicomyiza6-cmyk/oracle_pdb_ass_II_29403_justin
 
 **PDB Name Created:**
 `JU_PDB_29403`
